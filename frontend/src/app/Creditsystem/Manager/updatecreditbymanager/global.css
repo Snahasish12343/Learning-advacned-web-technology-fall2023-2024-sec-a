@@ -1,0 +1,13 @@
+/* styles.module.css or your global styles */
+
+.center-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
